@@ -1,4 +1,5 @@
 # Báo cáo cá nhân — Ngày 11
+Link Google Drive chứa `vuvanlong-front.zip` và `vuvanlong-fisheye.zip`: https://drive.google.com/drive/folders/1JnQhYj2pJevv9gK-r8Ueuuj8K5gTc3Jq?usp=sharing  
 Họ tên: Vũ Văn Long (vuvanlong)               Mã học viên: 2A202603312  
 Phiên bản CVAT (Help → About): CVAT 2.74.1 (Server 2.74.1, UI 2.74.1)  
 Guideline: Road v1.0    Lần nộp (`revision` trong manifest): 1  
