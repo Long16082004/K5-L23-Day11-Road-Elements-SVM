@@ -1,0 +1,50 @@
+{
+  "manifest": "road-delivery/1",
+  "format": "CVAT for images 1.1",
+  "guideline": "Road v1.0",
+  "name": "vuvanlong",
+  "revision": 1,
+  "created_at": "2026-11-21T11:23:42+00:00",
+  "files": [
+    {
+      "file": "vuvanlong-front.zip",
+      "bytes": 6779,
+      "sha256": "3a863ff0aeb6469792e4368f0c910ffa45a10486b0c80dc88bfed9b0328ed3b4",
+      "contains_images": false,
+      "images": 12,
+      "images_unlabelled": 0,
+      "images_all_tags": 12,
+      "shapes_by_label": {
+        "crosswalk": 7,
+        "drivable": 25,
+        "lane": 28,
+        "road_curb": 1,
+        "traffic_light": 27,
+        "traffic_sign": 32
+      }
+    },
+    {
+      "file": "vuvanlong-fisheye.zip",
+      "bytes": 36378,
+      "sha256": "3edb692d2090869f4f9e04ec7f73f39ceddde115c774e1f7e86dc62747496a39",
+      "contains_images": false,
+      "images": 8,
+      "images_unlabelled": 0,
+      "images_all_tags": 8,
+      "shapes_by_label": {
+        "crosswalk": 15,
+        "drivable": 11,
+        "lane": 12,
+        "road_curb": 4,
+        "traffic_light": 11,
+        "traffic_sign": 16
+      }
+    }
+  ],
+  "lint": {
+    "nặng": 4,
+    "chính": 0,
+    "nhẹ": 1
+  },
+  "note": "Tạo bởi road_check lint. Mô tả file đã gửi, không phải kết luận chất lượng."
+}
